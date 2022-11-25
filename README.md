@@ -9,5 +9,5 @@
 ## Please check out my repositories to see the projects I'm developing in data science with business problems
 
 ## Contact :mailbox_with_no_mail:: 
-karinnasantos0@gmail.com  |  linkedin.com/in/karinafss
+karinnasantos0@gmail.com  |  [linkedin.com/in/karinafss](https://www.linkedin.com/in/karinafss/)
 |  https://medium.com/@karinnasantos0

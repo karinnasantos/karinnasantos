@@ -10,3 +10,4 @@
 
 ## Contact :mailbox_with_no_mail:: 
 karinnasantos0@gmail.com    linkedin.com/in/karinafss
+Medium: https://medium.com/@karinnasantos0

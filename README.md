@@ -3,7 +3,7 @@
 ## Sobre mim :ok_woman: :
 - Cientista de dados
 - Estudante de doutorado
-- Tenho interesse em programação,machine learning, análise de dados, estatística descritiva, estatística multivaria e SQL.
+- Tenho interesse em programação,machine learning, análise de dados, estatística descritiva, estatística multivarida e SQL.
 - Meu principal objetivo é atuar como cientista de dados resolvendo problema de negócios.
 
 ## Projetos de machine learning
@@ -17,7 +17,7 @@ Conclusão: 11/2022
 
 ## Projetos de Insights
 [Maximização de vendas de uma imobiliária](https://github.com/karinnasantos/houserocket_project)
-Objetivo: Fazer a validação de hipóteses, gerar insights e responder perguntas de negócio, com intuitro de avaliar a performance do negócio.
+Objetivo: Fazer a validação de hipóteses, gerar insights e responder perguntas de negócio, com intuito de avaliar a performance do negócio.
 Conclusão: 10/2022
 
 ## Contact :mailbox_with_no_mail:: 

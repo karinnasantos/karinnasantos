@@ -3,7 +3,7 @@
 ## Sobre mim :ok_woman: :
 - Cientista de dados
 - Estudante de doutorado
-- Tenho interesse em programação,machine learning, análise de dados, estatística descritiva, estatística multivarida e SQL.
+- Tenho interesse em programação,machine learning, análise de dados, estatística descritiva, estatística multivariada e SQL.
 - Meu principal objetivo é atuar como cientista de dados resolvendo problema de negócios.
 
 ## Projetos de machine learning

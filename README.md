@@ -20,5 +20,11 @@ Conclusão: 11/2022
 Objetivo: Fazer a validação de hipóteses, gerar insights e responder perguntas de negócio, com intuito de avaliar a performance do negócio.
 Conclusão: 10/2022
 
+## Artigos científicos
+[Artigo puplicado na revista Journal of Vegetation Science](https://github.com/karinnasantos/ferreira_santos_et_al)
+Objetivo: Entender, através de análises espaciais, como espécies intimamaente relacionadas coexistem próximas no espaço. 
+Link:https://onlinelibrary.wiley.com/doi/abs/10.1111/jvs.13172
+Publicação: 12/2022
+
 ## Contact :mailbox_with_no_mail:: 
 karinnasantos0@gmail.com  |  [linkedin.com/in/karinafss](https://www.linkedin.com/in/karinafss/) | [Portifólio de projetos](https://karinnasantos.github.io/project_portfolio/)|  https://medium.com/@karinnasantos0

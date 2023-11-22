@@ -1,8 +1,8 @@
 # Hi, Welcome to my Github  :octocat: :
 
 ## Sobre mim :ok_woman: :
-- Cientista de dados
-- Estudante de doutorado
+- Analista de inovação digital jr
+- Doutora em Ecologia
 - Tenho interesse em programação,machine learning, análise de dados, estatística descritiva, estatística multivariada e SQL.
 - Meu principal objetivo é atuar como cientista de dados resolvendo problema de negócios.
 

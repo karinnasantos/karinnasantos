@@ -21,6 +21,11 @@ Objetivo: Fazer a validação de hipóteses, gerar insights e responder pergunta
 Conclusão: 10/2022
 
 ## Artigos científicos
+[Artigo puplicado na revista Journal of Vegetation Science](https://github.com/karinnasantos/Ferreira-Santos_etal.2024)
+Objetivo: Entender, através de análises multivaridas e seleção de modelos (GLMM), como espécies intimamaente relacionadas mantem sua composição taxonômica e funcional após um evento de seca.. 
+Link:https://onlinelibrary.wiley.com/journal/16541103
+Publicação: 04/2024
+
 [Artigo puplicado na revista Journal of Vegetation Science](https://github.com/karinnasantos/ferreira_santos_et_al)
 Objetivo: Entender, através de análises espaciais, como espécies intimamaente relacionadas coexistem próximas no espaço. 
 Link:https://onlinelibrary.wiley.com/doi/abs/10.1111/jvs.13172
